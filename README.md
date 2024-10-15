@@ -1,2 +1,2 @@
-# UD_Intro_Zhang-Jiamin
+# UD_Intro_ZhangJiamin
 UD 2024 Digital Skills Introduction
